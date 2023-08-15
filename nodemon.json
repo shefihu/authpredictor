@@ -1,0 +1,5 @@
+{
+    "env":{
+        "JWT_KEY": "when_thepeople_talk"
+    }
+}
